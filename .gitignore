@@ -1,0 +1,5 @@
+.python-version
+__pycache__
+.cache
+*.pyc
+fake_va_elec_results.csv
